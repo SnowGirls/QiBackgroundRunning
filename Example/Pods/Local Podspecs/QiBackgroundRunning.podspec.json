@@ -1,0 +1,33 @@
+{
+  "name": "QiBackgroundRunning",
+  "version": "0.1.0",
+  "summary": "Keeping alive background task in iOS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SnowGirls/QiBackgroundRunning",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SnowGirls": "804177063@QQ.COM"
+  },
+  "source": {
+    "git": "https://github.com/SnowGirls/QiBackgroundRunning.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "QiBackgroundRunning/Classes/**/*",
+  "resource_bundles": {
+    "QiBackgroundRunning": [
+      "QiBackgroundRunning/Assets/*"
+    ]
+  },
+  "info_plist": {
+    "CFBundleIdentifier": "org.cocoapods.QiBackgroundRunning"
+  },
+  "pod_target_xcconfig": {
+    "PRODUCT_BUNDLE_IDENTIFIER": "org.cocoapods.QiBackgroundRunning"
+  }
+}

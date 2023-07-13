@@ -1,0 +1,16 @@
+PODS:
+  - QiBackgroundRunning (0.1.0)
+
+DEPENDENCIES:
+  - QiBackgroundRunning (from `../`)
+
+EXTERNAL SOURCES:
+  QiBackgroundRunning:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QiBackgroundRunning: 326080970526464b8c334c65c4bfabf24a302f7a
+
+PODFILE CHECKSUM: 2e910daeaedd2a56828c6fa99ec70225d508710b
+
+COCOAPODS: 1.12.1

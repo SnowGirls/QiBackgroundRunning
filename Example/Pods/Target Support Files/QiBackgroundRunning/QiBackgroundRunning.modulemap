@@ -1,0 +1,6 @@
+framework module QiBackgroundRunning {
+  umbrella header "QiBackgroundRunning-umbrella.h"
+
+  export *
+  module * { export * }
+}
